@@ -16,7 +16,7 @@ No proxies, headless browsers or HTML parsing to maintain — one API key, `x-ap
 
 - 🌐 **Proxies & headless browsers included** — no scraping infrastructure to build or maintain.
 - 🛡️ **Anti-bot & CAPTCHAs handled** — anti-bot bypass is built in, so your pipelines keep running.
-- 🧩 **Clean, structured JSON** — documented fields instead of brittle HTML selectors.
+- 🧩 **Structured JSON output** — documented fields instead of brittle HTML selectors.
 - 💳 **Pay per successful request** — start with +500 free credits, no credit card required.
 - 🔑 **One API key, one header** — the same `x-api-key` for every website in the list below.
 - 🧑‍💻 **Copy-paste examples** — Python and TypeScript in each README, 7 more languages in `examples/`.
