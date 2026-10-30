@@ -29,7 +29,7 @@ curl -G https://api.piloterr.com/v2/amazon/search \
 
 ### Find your scraper
 
-👉 **[Browse all 121 repositories](https://github.com/orgs/piloterr/repositories)** — search for a website name
+👉 **[Browse all 142 repositories](https://github.com/orgs/piloterr/repositories)** — search for a website name
 (e.g. `amazon`, `zillow`, `google`) to find its scraper and copy-paste examples.
 
 ---
