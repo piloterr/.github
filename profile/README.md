@@ -27,6 +27,22 @@ curl -G https://api.piloterr.com/v2/amazon/search \
   --data-urlencode "query=playstation 5"
 ```
 
+### Official SDKs
+
+Use Piloterr from your own language with a typed client:
+
+| SDK | Package | Install |
+| --- | --- | --- |
+| Node.js | [`@piloterr/sdk`](https://www.npmjs.com/package/@piloterr/sdk) | `npm install @piloterr/sdk` |
+| Python | [`piloterr`](https://pypi.org/project/piloterr/) | `pip install piloterr` |
+| Go | [`piloterr-go`](https://pkg.go.dev/github.com/piloterr/piloterr-go) | `go get github.com/piloterr/piloterr-go` |
+| .NET | [`Piloterr`](https://www.nuget.org/packages/Piloterr) | `dotnet add package Piloterr` |
+| Ruby | [`piloterr`](https://rubygems.org/gems/piloterr) | `gem install piloterr` |
+| PHP | [`piloterr/sdk`](https://packagist.org/packages/piloterr/sdk) | `composer require piloterr/sdk` |
+| Java | [`piloterr-java`](https://github.com/piloterr/piloterr-java) | build from source, see its README |
+| CLI | [`@piloterr/cli`](https://www.npmjs.com/package/@piloterr/cli) | `npm install -g @piloterr/cli` |
+| MCP server | [`@piloterr/mcp`](https://www.npmjs.com/package/@piloterr/mcp) | `npx -y @piloterr/mcp` |
+
 ### Find your scraper
 
 👉 **[Browse all 165 repositories](https://github.com/orgs/piloterr/repositories)** — search for a website name
